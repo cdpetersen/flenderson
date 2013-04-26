@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Flenderson::Application.config.secret_token = '5132a4b24b7c3c43163be8d15508031251e5dd7b5adc4d82af85bc7681e4331d2bbf6b98f76bb6d98bac23195a9fb378b119fc0f2aad5d240ff328fc5b4ed8eb'
+Flenderson::Application.config.secret_token = '07fb2fce690b53d252d2ba93ff2a381fbbc23a1985ef9a6c8630639b63395cf5c65b50d65409d89568675e617d8d172538e370aa0df9f4edd1d1a962a049e6ce'
